@@ -1,0 +1,15 @@
+C:\Users\ACB\Documents\GitHub\csharpclasses\estruturaCondicionaleLoop\bin\Debug\net9.0\estruturaCondicionaleLoop.exe
+C:\Users\ACB\Documents\GitHub\csharpclasses\estruturaCondicionaleLoop\bin\Debug\net9.0\estruturaCondicionaleLoop.deps.json
+C:\Users\ACB\Documents\GitHub\csharpclasses\estruturaCondicionaleLoop\bin\Debug\net9.0\estruturaCondicionaleLoop.runtimeconfig.json
+C:\Users\ACB\Documents\GitHub\csharpclasses\estruturaCondicionaleLoop\bin\Debug\net9.0\estruturaCondicionaleLoop.dll
+C:\Users\ACB\Documents\GitHub\csharpclasses\estruturaCondicionaleLoop\bin\Debug\net9.0\estruturaCondicionaleLoop.pdb
+C:\Users\ACB\Documents\GitHub\csharpclasses\estruturaCondicionaleLoop\obj\Debug\net9.0\estruturaCondicionaleLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACB\Documents\GitHub\csharpclasses\estruturaCondicionaleLoop\obj\Debug\net9.0\estruturaCondicionaleLoop.AssemblyInfoInputs.cache
+C:\Users\ACB\Documents\GitHub\csharpclasses\estruturaCondicionaleLoop\obj\Debug\net9.0\estruturaCondicionaleLoop.AssemblyInfo.cs
+C:\Users\ACB\Documents\GitHub\csharpclasses\estruturaCondicionaleLoop\obj\Debug\net9.0\estruturaCondicionaleLoop.csproj.CoreCompileInputs.cache
+C:\Users\ACB\Documents\GitHub\csharpclasses\estruturaCondicionaleLoop\obj\Debug\net9.0\estruturaCondicionaleLoop.sourcelink.json
+C:\Users\ACB\Documents\GitHub\csharpclasses\estruturaCondicionaleLoop\obj\Debug\net9.0\estruturaCondicionaleLoop.dll
+C:\Users\ACB\Documents\GitHub\csharpclasses\estruturaCondicionaleLoop\obj\Debug\net9.0\refint\estruturaCondicionaleLoop.dll
+C:\Users\ACB\Documents\GitHub\csharpclasses\estruturaCondicionaleLoop\obj\Debug\net9.0\estruturaCondicionaleLoop.pdb
+C:\Users\ACB\Documents\GitHub\csharpclasses\estruturaCondicionaleLoop\obj\Debug\net9.0\estruturaCondicionaleLoop.genruntimeconfig.cache
+C:\Users\ACB\Documents\GitHub\csharpclasses\estruturaCondicionaleLoop\obj\Debug\net9.0\ref\estruturaCondicionaleLoop.dll

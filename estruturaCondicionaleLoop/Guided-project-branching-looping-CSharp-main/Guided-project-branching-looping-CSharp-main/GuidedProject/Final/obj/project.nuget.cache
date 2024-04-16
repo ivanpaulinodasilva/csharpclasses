@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bfZGjfUgZg/uByO3SJ4sbew2q26CO1dTAhx8PeCQ7Pyo5QbjLjJgUbQgWZ3eYjkx0Mo22K9k/w5j+MNdvQqr1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACB\\Documents\\GitHub\\csharpclasses\\estruturaCondicionaleLoop\\Guided-project-branching-looping-CSharp-main\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Final\\Final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACB\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\ACB\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\ACB\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\ACB\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.1\\microsoft.netcore.app.host.win-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
