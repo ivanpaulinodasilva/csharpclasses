@@ -1,0 +1,15 @@
+C:\Users\ACB\Documents\GitHub\csharpclasses\dowhile\bin\Debug\net9.0\dowhile.exe
+C:\Users\ACB\Documents\GitHub\csharpclasses\dowhile\bin\Debug\net9.0\dowhile.deps.json
+C:\Users\ACB\Documents\GitHub\csharpclasses\dowhile\bin\Debug\net9.0\dowhile.runtimeconfig.json
+C:\Users\ACB\Documents\GitHub\csharpclasses\dowhile\bin\Debug\net9.0\dowhile.dll
+C:\Users\ACB\Documents\GitHub\csharpclasses\dowhile\bin\Debug\net9.0\dowhile.pdb
+C:\Users\ACB\Documents\GitHub\csharpclasses\dowhile\obj\Debug\net9.0\dowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACB\Documents\GitHub\csharpclasses\dowhile\obj\Debug\net9.0\dowhile.AssemblyInfoInputs.cache
+C:\Users\ACB\Documents\GitHub\csharpclasses\dowhile\obj\Debug\net9.0\dowhile.AssemblyInfo.cs
+C:\Users\ACB\Documents\GitHub\csharpclasses\dowhile\obj\Debug\net9.0\dowhile.csproj.CoreCompileInputs.cache
+C:\Users\ACB\Documents\GitHub\csharpclasses\dowhile\obj\Debug\net9.0\dowhile.sourcelink.json
+C:\Users\ACB\Documents\GitHub\csharpclasses\dowhile\obj\Debug\net9.0\dowhile.dll
+C:\Users\ACB\Documents\GitHub\csharpclasses\dowhile\obj\Debug\net9.0\refint\dowhile.dll
+C:\Users\ACB\Documents\GitHub\csharpclasses\dowhile\obj\Debug\net9.0\dowhile.pdb
+C:\Users\ACB\Documents\GitHub\csharpclasses\dowhile\obj\Debug\net9.0\dowhile.genruntimeconfig.cache
+C:\Users\ACB\Documents\GitHub\csharpclasses\dowhile\obj\Debug\net9.0\ref\dowhile.dll
