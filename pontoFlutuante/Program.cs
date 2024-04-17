@@ -3,7 +3,7 @@ data = new int[3];
 //simplificando uma linha de código
 */
 int[] data = new int[3];
-//criar um novo comentario
+//criar um novo comentario, para entender o funcionamento.
 Console.WriteLine("");
 Console.WriteLine("Floating point types:");
 Console.WriteLine($"float  : {float.MinValue} to {float.MaxValue} (with ~6-9 digits of precision)");
