@@ -1,0 +1,15 @@
+C:\Users\ACB\Documents\GitHub\csharpclasses\caseswitch\bin\Debug\net9.0\caseswitch.exe
+C:\Users\ACB\Documents\GitHub\csharpclasses\caseswitch\bin\Debug\net9.0\caseswitch.deps.json
+C:\Users\ACB\Documents\GitHub\csharpclasses\caseswitch\bin\Debug\net9.0\caseswitch.runtimeconfig.json
+C:\Users\ACB\Documents\GitHub\csharpclasses\caseswitch\bin\Debug\net9.0\caseswitch.dll
+C:\Users\ACB\Documents\GitHub\csharpclasses\caseswitch\bin\Debug\net9.0\caseswitch.pdb
+C:\Users\ACB\Documents\GitHub\csharpclasses\caseswitch\obj\Debug\net9.0\caseswitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACB\Documents\GitHub\csharpclasses\caseswitch\obj\Debug\net9.0\caseswitch.AssemblyInfoInputs.cache
+C:\Users\ACB\Documents\GitHub\csharpclasses\caseswitch\obj\Debug\net9.0\caseswitch.AssemblyInfo.cs
+C:\Users\ACB\Documents\GitHub\csharpclasses\caseswitch\obj\Debug\net9.0\caseswitch.csproj.CoreCompileInputs.cache
+C:\Users\ACB\Documents\GitHub\csharpclasses\caseswitch\obj\Debug\net9.0\caseswitch.sourcelink.json
+C:\Users\ACB\Documents\GitHub\csharpclasses\caseswitch\obj\Debug\net9.0\caseswitch.dll
+C:\Users\ACB\Documents\GitHub\csharpclasses\caseswitch\obj\Debug\net9.0\refint\caseswitch.dll
+C:\Users\ACB\Documents\GitHub\csharpclasses\caseswitch\obj\Debug\net9.0\caseswitch.pdb
+C:\Users\ACB\Documents\GitHub\csharpclasses\caseswitch\obj\Debug\net9.0\caseswitch.genruntimeconfig.cache
+C:\Users\ACB\Documents\GitHub\csharpclasses\caseswitch\obj\Debug\net9.0\ref\caseswitch.dll
