@@ -1,0 +1,15 @@
+C:\Users\ACB\Documents\GitHub\csharpclasses\loopCase\bin\Debug\net9.0\loopCase.exe
+C:\Users\ACB\Documents\GitHub\csharpclasses\loopCase\bin\Debug\net9.0\loopCase.deps.json
+C:\Users\ACB\Documents\GitHub\csharpclasses\loopCase\bin\Debug\net9.0\loopCase.runtimeconfig.json
+C:\Users\ACB\Documents\GitHub\csharpclasses\loopCase\bin\Debug\net9.0\loopCase.dll
+C:\Users\ACB\Documents\GitHub\csharpclasses\loopCase\bin\Debug\net9.0\loopCase.pdb
+C:\Users\ACB\Documents\GitHub\csharpclasses\loopCase\obj\Debug\net9.0\loopCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACB\Documents\GitHub\csharpclasses\loopCase\obj\Debug\net9.0\loopCase.AssemblyInfoInputs.cache
+C:\Users\ACB\Documents\GitHub\csharpclasses\loopCase\obj\Debug\net9.0\loopCase.AssemblyInfo.cs
+C:\Users\ACB\Documents\GitHub\csharpclasses\loopCase\obj\Debug\net9.0\loopCase.csproj.CoreCompileInputs.cache
+C:\Users\ACB\Documents\GitHub\csharpclasses\loopCase\obj\Debug\net9.0\loopCase.sourcelink.json
+C:\Users\ACB\Documents\GitHub\csharpclasses\loopCase\obj\Debug\net9.0\loopCase.dll
+C:\Users\ACB\Documents\GitHub\csharpclasses\loopCase\obj\Debug\net9.0\refint\loopCase.dll
+C:\Users\ACB\Documents\GitHub\csharpclasses\loopCase\obj\Debug\net9.0\loopCase.pdb
+C:\Users\ACB\Documents\GitHub\csharpclasses\loopCase\obj\Debug\net9.0\loopCase.genruntimeconfig.cache
+C:\Users\ACB\Documents\GitHub\csharpclasses\loopCase\obj\Debug\net9.0\ref\loopCase.dll
