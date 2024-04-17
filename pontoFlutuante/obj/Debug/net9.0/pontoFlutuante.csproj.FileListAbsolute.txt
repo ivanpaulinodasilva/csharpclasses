@@ -1,0 +1,15 @@
+C:\Users\ACB\Documents\GitHub\csharpclasses\pontoFlutuante\bin\Debug\net9.0\pontoFlutuante.exe
+C:\Users\ACB\Documents\GitHub\csharpclasses\pontoFlutuante\bin\Debug\net9.0\pontoFlutuante.deps.json
+C:\Users\ACB\Documents\GitHub\csharpclasses\pontoFlutuante\bin\Debug\net9.0\pontoFlutuante.runtimeconfig.json
+C:\Users\ACB\Documents\GitHub\csharpclasses\pontoFlutuante\bin\Debug\net9.0\pontoFlutuante.dll
+C:\Users\ACB\Documents\GitHub\csharpclasses\pontoFlutuante\bin\Debug\net9.0\pontoFlutuante.pdb
+C:\Users\ACB\Documents\GitHub\csharpclasses\pontoFlutuante\obj\Debug\net9.0\pontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACB\Documents\GitHub\csharpclasses\pontoFlutuante\obj\Debug\net9.0\pontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\ACB\Documents\GitHub\csharpclasses\pontoFlutuante\obj\Debug\net9.0\pontoFlutuante.AssemblyInfo.cs
+C:\Users\ACB\Documents\GitHub\csharpclasses\pontoFlutuante\obj\Debug\net9.0\pontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\ACB\Documents\GitHub\csharpclasses\pontoFlutuante\obj\Debug\net9.0\pontoFlutuante.sourcelink.json
+C:\Users\ACB\Documents\GitHub\csharpclasses\pontoFlutuante\obj\Debug\net9.0\pontoFlutuante.dll
+C:\Users\ACB\Documents\GitHub\csharpclasses\pontoFlutuante\obj\Debug\net9.0\refint\pontoFlutuante.dll
+C:\Users\ACB\Documents\GitHub\csharpclasses\pontoFlutuante\obj\Debug\net9.0\pontoFlutuante.pdb
+C:\Users\ACB\Documents\GitHub\csharpclasses\pontoFlutuante\obj\Debug\net9.0\pontoFlutuante.genruntimeconfig.cache
+C:\Users\ACB\Documents\GitHub\csharpclasses\pontoFlutuante\obj\Debug\net9.0\ref\pontoFlutuante.dll
