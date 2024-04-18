@@ -1,0 +1,15 @@
+C:\Users\ACB\Documents\GitHub\csharpclasses\typeDate\typeDate\bin\Debug\net9.0\typeDate.exe
+C:\Users\ACB\Documents\GitHub\csharpclasses\typeDate\typeDate\bin\Debug\net9.0\typeDate.deps.json
+C:\Users\ACB\Documents\GitHub\csharpclasses\typeDate\typeDate\bin\Debug\net9.0\typeDate.runtimeconfig.json
+C:\Users\ACB\Documents\GitHub\csharpclasses\typeDate\typeDate\bin\Debug\net9.0\typeDate.dll
+C:\Users\ACB\Documents\GitHub\csharpclasses\typeDate\typeDate\bin\Debug\net9.0\typeDate.pdb
+C:\Users\ACB\Documents\GitHub\csharpclasses\typeDate\typeDate\obj\Debug\net9.0\typeDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACB\Documents\GitHub\csharpclasses\typeDate\typeDate\obj\Debug\net9.0\typeDate.AssemblyInfoInputs.cache
+C:\Users\ACB\Documents\GitHub\csharpclasses\typeDate\typeDate\obj\Debug\net9.0\typeDate.AssemblyInfo.cs
+C:\Users\ACB\Documents\GitHub\csharpclasses\typeDate\typeDate\obj\Debug\net9.0\typeDate.csproj.CoreCompileInputs.cache
+C:\Users\ACB\Documents\GitHub\csharpclasses\typeDate\typeDate\obj\Debug\net9.0\typeDate.sourcelink.json
+C:\Users\ACB\Documents\GitHub\csharpclasses\typeDate\typeDate\obj\Debug\net9.0\typeDate.dll
+C:\Users\ACB\Documents\GitHub\csharpclasses\typeDate\typeDate\obj\Debug\net9.0\refint\typeDate.dll
+C:\Users\ACB\Documents\GitHub\csharpclasses\typeDate\typeDate\obj\Debug\net9.0\typeDate.pdb
+C:\Users\ACB\Documents\GitHub\csharpclasses\typeDate\typeDate\obj\Debug\net9.0\typeDate.genruntimeconfig.cache
+C:\Users\ACB\Documents\GitHub\csharpclasses\typeDate\typeDate\obj\Debug\net9.0\ref\typeDate.dll
