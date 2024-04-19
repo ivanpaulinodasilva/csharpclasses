@@ -1,0 +1,15 @@
+C:\Users\ACB\Documents\GitHub\csharpclasses\matrizAux\matrixaux\bin\Debug\net9.0\matrixaux.exe
+C:\Users\ACB\Documents\GitHub\csharpclasses\matrizAux\matrixaux\bin\Debug\net9.0\matrixaux.deps.json
+C:\Users\ACB\Documents\GitHub\csharpclasses\matrizAux\matrixaux\bin\Debug\net9.0\matrixaux.runtimeconfig.json
+C:\Users\ACB\Documents\GitHub\csharpclasses\matrizAux\matrixaux\bin\Debug\net9.0\matrixaux.dll
+C:\Users\ACB\Documents\GitHub\csharpclasses\matrizAux\matrixaux\bin\Debug\net9.0\matrixaux.pdb
+C:\Users\ACB\Documents\GitHub\csharpclasses\matrizAux\matrixaux\obj\Debug\net9.0\matrixaux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACB\Documents\GitHub\csharpclasses\matrizAux\matrixaux\obj\Debug\net9.0\matrixaux.AssemblyInfoInputs.cache
+C:\Users\ACB\Documents\GitHub\csharpclasses\matrizAux\matrixaux\obj\Debug\net9.0\matrixaux.AssemblyInfo.cs
+C:\Users\ACB\Documents\GitHub\csharpclasses\matrizAux\matrixaux\obj\Debug\net9.0\matrixaux.csproj.CoreCompileInputs.cache
+C:\Users\ACB\Documents\GitHub\csharpclasses\matrizAux\matrixaux\obj\Debug\net9.0\matrixaux.sourcelink.json
+C:\Users\ACB\Documents\GitHub\csharpclasses\matrizAux\matrixaux\obj\Debug\net9.0\matrixaux.dll
+C:\Users\ACB\Documents\GitHub\csharpclasses\matrizAux\matrixaux\obj\Debug\net9.0\refint\matrixaux.dll
+C:\Users\ACB\Documents\GitHub\csharpclasses\matrizAux\matrixaux\obj\Debug\net9.0\matrixaux.pdb
+C:\Users\ACB\Documents\GitHub\csharpclasses\matrizAux\matrixaux\obj\Debug\net9.0\matrixaux.genruntimeconfig.cache
+C:\Users\ACB\Documents\GitHub\csharpclasses\matrizAux\matrixaux\obj\Debug\net9.0\ref\matrixaux.dll
