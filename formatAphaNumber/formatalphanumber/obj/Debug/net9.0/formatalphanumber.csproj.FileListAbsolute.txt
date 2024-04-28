@@ -1,0 +1,15 @@
+C:\Users\ACB\Documents\GitHub\csharpclasses\formatAphaNumber\formatalphanumber\bin\Debug\net9.0\formatalphanumber.exe
+C:\Users\ACB\Documents\GitHub\csharpclasses\formatAphaNumber\formatalphanumber\bin\Debug\net9.0\formatalphanumber.deps.json
+C:\Users\ACB\Documents\GitHub\csharpclasses\formatAphaNumber\formatalphanumber\bin\Debug\net9.0\formatalphanumber.runtimeconfig.json
+C:\Users\ACB\Documents\GitHub\csharpclasses\formatAphaNumber\formatalphanumber\bin\Debug\net9.0\formatalphanumber.dll
+C:\Users\ACB\Documents\GitHub\csharpclasses\formatAphaNumber\formatalphanumber\bin\Debug\net9.0\formatalphanumber.pdb
+C:\Users\ACB\Documents\GitHub\csharpclasses\formatAphaNumber\formatalphanumber\obj\Debug\net9.0\formatalphanumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACB\Documents\GitHub\csharpclasses\formatAphaNumber\formatalphanumber\obj\Debug\net9.0\formatalphanumber.AssemblyInfoInputs.cache
+C:\Users\ACB\Documents\GitHub\csharpclasses\formatAphaNumber\formatalphanumber\obj\Debug\net9.0\formatalphanumber.AssemblyInfo.cs
+C:\Users\ACB\Documents\GitHub\csharpclasses\formatAphaNumber\formatalphanumber\obj\Debug\net9.0\formatalphanumber.csproj.CoreCompileInputs.cache
+C:\Users\ACB\Documents\GitHub\csharpclasses\formatAphaNumber\formatalphanumber\obj\Debug\net9.0\formatalphanumber.sourcelink.json
+C:\Users\ACB\Documents\GitHub\csharpclasses\formatAphaNumber\formatalphanumber\obj\Debug\net9.0\formatalphanumber.dll
+C:\Users\ACB\Documents\GitHub\csharpclasses\formatAphaNumber\formatalphanumber\obj\Debug\net9.0\refint\formatalphanumber.dll
+C:\Users\ACB\Documents\GitHub\csharpclasses\formatAphaNumber\formatalphanumber\obj\Debug\net9.0\formatalphanumber.pdb
+C:\Users\ACB\Documents\GitHub\csharpclasses\formatAphaNumber\formatalphanumber\obj\Debug\net9.0\formatalphanumber.genruntimeconfig.cache
+C:\Users\ACB\Documents\GitHub\csharpclasses\formatAphaNumber\formatalphanumber\obj\Debug\net9.0\ref\formatalphanumber.dll
